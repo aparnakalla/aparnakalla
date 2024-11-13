@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aparnakalla
-- 👀 I’m interested in competitive programming,Data Science,ML and UI/UX design
+- 👀 I’m interested in competitive programming,Data Science,ML.
 - 💞️ I’m looking to collaborate on projects in any of the above mentioned fields 
 - 📫 How to reach me aparnakalla11@gmail.com 
 
